@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    username: root
+    password: 123
+    url: jdbc:mysql://localhost:3306/springboot
+    driver-class-name: com.mysql.jdbc.Driver
+
+#    schema:
+#      - classpath:/springboot_ddl.sql
+#    data:
+#      - classpath:/springboot_dml.sql

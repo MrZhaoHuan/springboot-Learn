@@ -1,0 +1,5 @@
+DROP TABLE IF EXISTS USER ;
+CREATE TABLE USER (
+   id  INT ,
+   name VARCHAR(10)
+);
