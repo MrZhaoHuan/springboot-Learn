@@ -1,0 +1,11 @@
+#person:
+#    name: zhangan
+#    money: 19
+#    age: 10
+#    maps: {k1: v1}
+#    cards: [1,2,3]
+#    lists: [a,b,c]
+#    cat: {name: xiaoli}spring:spring:spring:
+spring:
+  profiles:
+    active: test
